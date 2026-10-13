@@ -9,5 +9,4 @@
 4.14.186-perf-gc587b558c53d
 5.10.240-android12-9-33420454-abS711BXXSIGZH9
 4.9.82-perf+
-6.6.89-android15-8-g8e4be6b47e40-ab14134548-4k
 4.14.190-perf-g75201eeb4293
